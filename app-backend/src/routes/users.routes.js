@@ -1,0 +1,1 @@
+// create routes for "/login, /register, /add_to_activity, /get_all_activity"

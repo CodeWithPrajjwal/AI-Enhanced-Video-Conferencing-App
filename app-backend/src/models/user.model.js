@@ -1,0 +1,1 @@
+// User schema : name, username, password, token
