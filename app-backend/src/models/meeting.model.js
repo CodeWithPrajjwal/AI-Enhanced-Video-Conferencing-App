@@ -1,0 +1,1 @@
+// Meeting schema : user_id, meetcode, date
